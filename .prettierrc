@@ -1,4 +1,20 @@
 {
-  "singleQuote": true,
-  "trailingComma": "all"
+  "printWidth": 100,
+  "useTabs": false,
+  "tabWidth": 4,
+  "semi": true,
+  "quoteProps": "as-needed",
+  "trailingComma": "all",
+  "bracketSpacing": true,
+  "bracketSameLine": false,
+  "arrowParens": "always",
+  "requirePragma": false,
+  "insertPragma": false,
+  "proseWrap": "preserve",
+  "singleAttributePerLine": false,
+  "singleQuote": false,
+  "endOfLine": "lf",
+  "embeddedLanguageFormatting": "auto",
+  "importOrderSeparation": true,
+  "importOrderSortSpecifiers": true
 }
